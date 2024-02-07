@@ -1,2 +1,2 @@
-# COMPOSANT Carrousel
+# Carousel Component
  
